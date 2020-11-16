@@ -6,11 +6,15 @@ Esto **NO** es un repositorio oficial de la Universidad Pablo de Olavide, simple
 
 ## CHANGELOG
 **16-nov-2020**
+
 Se modifican los siguientes ficheros
+
 - Boletín 1
   - Ejercicio 1
   - Ejercicio 2
+
 Se añaden los siguientes ficheros
+
 - Boletín 3
   - Ejercicio 1
   - Ejercicio 2
