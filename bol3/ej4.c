@@ -1,6 +1,4 @@
 #include <stdio.h>
-
-#include <stdio.h>
 int main(){
   int num, coc, div, contador;
   coc = 0;
