@@ -1,5 +1,8 @@
 package puntopixel;
-
+/*
+    @author manueljesus00
+INFO: Documento creado a partir de la clase asincrona de POO
+*/
 public class Punto implements IPunto {
 
     protected double x;
