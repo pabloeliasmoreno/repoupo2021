@@ -1,5 +1,5 @@
 package GesVol;
-
+import poo.io.*;
 public class Afiliado extends Persona implements Colaborador {
 
     protected int relVoluntario;

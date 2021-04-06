@@ -1,4 +1,5 @@
 package GesVol;
+import poo.io.*;
 // MAIN CLASS
 public class Persona {
     public String nombre, apellido;

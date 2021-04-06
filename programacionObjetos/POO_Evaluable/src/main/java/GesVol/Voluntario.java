@@ -1,5 +1,5 @@
 package GesVol;
-
+import poo.io.*;
 public class Voluntario extends Persona{
 
     public int actividadesRealizadas;

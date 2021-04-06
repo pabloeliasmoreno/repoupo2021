@@ -1,5 +1,5 @@
 package GesVol;
-
+import poo.io.*;
 public class Empresa implements Colaborador{
 
     protected int relVoluntario;

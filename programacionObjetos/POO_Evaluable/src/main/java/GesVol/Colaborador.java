@@ -1,4 +1,5 @@
 package GesVol;
+import poo.io.*;
 
 public interface Colaborador {
     public final int menor = 1;
